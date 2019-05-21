@@ -1,0 +1,21 @@
+<snippet>
+<content><![CDATA[
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+# @author: Kun XIE
+# @email: cnxiekun@gmail.com
+# @createTime: ${1:time}
+# @description: ${2:description}
+"""
+
+${3:}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>python</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <description>Python Head</description>
+</snippet>

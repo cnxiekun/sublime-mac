@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/kun/Documents/channel_v3.json"
+	],
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"Generic Config",
+		"Git",
+		"GitGutter",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Afterglow"
+	]
+}

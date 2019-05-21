@@ -1,0 +1,30 @@
+{
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"Source Code Pro",
+		"Source Han Serif SC"
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"RestructuredText",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Afterglow-magenta.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
